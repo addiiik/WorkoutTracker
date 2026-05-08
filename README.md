@@ -1,4 +1,4 @@
-# 💪 Gym Logger App
+# 💪 Workout Tracker
 
 Track your gym progress, workouts, and personal bests easily with the Gym Logger App.
 
